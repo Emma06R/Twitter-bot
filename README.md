@@ -8,7 +8,7 @@ Bot de automatización para X (Twitter) desarrollado en Python con fines académ
 - [Requisitos](#requisitos)
 - [Instalación](#instalación)
 - [Autenticación](#autenticación)
-- [Uso Básico](#uso-básico)
+- [Uso Básico](#uso-básic  o)
 - [Seguridad](#seguridad)
 
 ---
