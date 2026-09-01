@@ -22,18 +22,6 @@ Este proyecto permite interactuar con la plataforma X (Twitter) mediante scripts
 
 *Representación gráfica del flujo del sistema:*
 
-```mermaid
-graph TD
-    A([Inicio]) --> B[Importar twitter.account]
-    B --> C[Definir cookies: auth_token y ct0]
-    C --> D[Inicializar Account con cookies]
-    D --> E{¿Sesión Válida?}
-    E -- Sí --> F[Ejecutar account.tweet]
-    F --> G[Imprimir mensaje de éxito]
-    G --> H([Fin])
-    E -- No --> I[Error de Autenticación / JSON]
-    I --> H
-
 Requisitos
 Python 3.10 o superior
 
