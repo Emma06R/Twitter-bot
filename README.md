@@ -21,7 +21,7 @@ Este proyecto permite interactuar con la plataforma X (Twitter) mediante scripts
 ## Diagrama de Flujo
 
 <!-- Si exportaste tu diagrama de draw.io como imagen y la guardaste en una carpeta 'img', usa esta línea: -->
-![Diagrama de Flujo del Bot](img/diagrama.png)
+![Diagrama de Flujo del Bot](img/diagrama_bot.png)
 
 *Representación gráfica del flujo del sistema:*
 
