@@ -40,6 +40,8 @@ Presiona F12 o da clic derecho e selecciona Inspeccionar.
 Ve a Aplicación (o Almacenamiento) > Cookies > https://x.com.
 
 Copia los valores de las llaves auth_token y ct0.
+<img width="757" height="712" alt="image" src="https://github.com/user-attachments/assets/e088c451-af68-4ece-8b2c-ef2f3593d684" />
+
 
 Uso Básico
 Crea un archivo llamado bot.py con el siguiente código:
@@ -59,5 +61,5 @@ account.tweet("¡Hola mundo desde mi bot de Twitter!")
 
 print("Tweet publicado con éxito.")
 
-##Seguridad
+## Seguridad
 IMPORTANTE: Nunca subas tus cookies reales (auth_token o ct0) a tu repositorio público de GitHub, ya que otorgan acceso total a tu cuenta.
