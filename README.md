@@ -18,7 +18,7 @@ Este proyecto permite interactuar con la plataforma X (Twitter) mediante scripts
 
 ## Diagrama de Flujo
 
-![Diagrama de Flujo del Bot](img/diagrama_bot.png)
+![Diagrama de Flujo del Bot](diagrama_bot.png)
 
 *Representación gráfica del flujo del sistema:*
 
