@@ -59,5 +59,5 @@ account.tweet("¡Hola mundo desde mi bot de Twitter!")
 
 print("Tweet publicado con éxito.")
 
-Seguridad
+##Seguridad
 IMPORTANTE: Nunca subas tus cookies reales (auth_token o ct0) a tu repositorio público de GitHub, ya que otorgan acceso total a tu cuenta.
