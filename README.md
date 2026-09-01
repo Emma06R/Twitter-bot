@@ -5,10 +5,6 @@ Bot de automatización para X (Twitter) desarrollado en Python con fines académ
 - [Descripción](#descripción)
 - [Requisitos](#requisitos)
 - [Instalación](#instalación)
-- [Autenticación](#autenticación)
-- [Uso Básico](#uso-básico)
-- [Seguridad](#seguridad)
-
 ---
 
 ## Descripción
@@ -40,8 +36,6 @@ Presiona F12 o da clic derecho e selecciona Inspeccionar.
 Ve a Aplicación (o Almacenamiento) > Cookies > https://x.com.
 
 Copia los valores de las llaves auth_token y ct0.
-<img width="757" height="712" alt="image" src="https://github.com/user-attachments/assets/e088c451-af68-4ece-8b2c-ef2f3593d684" />
-
 
 Uso Básico
 Crea un archivo llamado bot.py con el siguiente código:
