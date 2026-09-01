@@ -15,7 +15,7 @@ Python 3.10 o superior
 Librería twitter-api-client
 Una cuenta activa de X (Twitter)
 Instalación
-Clona este repositorio o descarga los archivos en tu equipo local e instala la librería requerida:
+Copia y pega este repositorio o descarga los archivos en tu equipo local e instala la librería requerida:
 pip install twitter-api-client
 Autenticación
 Debido a las restricciones actuales de inicio de sesión de X por usuario y contraseña, este cliente utiliza cookies de sesión (auth_token y ct0).
