@@ -20,7 +20,7 @@ Este proyecto permite interactuar con la plataforma X (Twitter) mediante scripts
 
 ![Diagrama de Flujo del Bot](diagrama_bot.png)
 
-*Representación gráfica del flujo del sistema:*
+## *Representación gráfica del flujo del sistema:*
 
 Requisitos
 Python 3.10 o superior
