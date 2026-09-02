@@ -44,20 +44,4 @@ Ve a Aplicación (o Almacenamiento) > Cookies > [https://x.com](https://x.com).
 
 Copia los valores de las llaves auth_token y ct0.
 
-Uso Básico
-Crea un archivo llamado bot.py con el siguiente código:
-from twitter.account import Account
 
-# Reemplaza con tus cookies correspondientes
-cookies = {
-    "auth_token": "TU_AUTH_TOKEN_AQUI",
-    "ct0": "TU_CT0_AQUI"
-}
-
-# Inicializar cuenta
-account = Account(cookies=cookies)
-
-# Publicar un tweet
-account.tweet("¡Hola mundo desde mi bot de Twitter!")
-
-print("Tweet publicado con éxito.")
